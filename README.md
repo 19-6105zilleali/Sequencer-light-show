@@ -1,9 +1,9 @@
 # Sequencer-light-show
-/* ```````````````````````````````````````````
-   ` Auther Name : ZILL-E-ALI;               `
-   `TITLE PROJECT: Sequencer-light-show;     `
-   ` Date Created : December 25 , 2021.      `
-   ````````````````````````````````````````````*/
+
+   ` Auther Name : ZILL-E-ALI;             `  
+   `TITLE PROJECT: Sequencer-light-show;  `   
+   ` Date Created : December 25 , 2021.   `
+
    
    
    Detail's:
